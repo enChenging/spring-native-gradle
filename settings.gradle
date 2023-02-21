@@ -5,4 +5,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'spring-native-gradle'
+rootProject.name = 'spring-native-gradle2'
+include 'service'
+include 'consumer'
+
